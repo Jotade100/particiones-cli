@@ -1,0 +1,30 @@
+{
+  "name": "particion",
+  "version": "1.0.0",
+  "license": "la mía XD",
+  "homepage": "https://github.com/Jotade100/youtubeCLI/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jotade100/youtubeCLI.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "particion": "bin/outside"
+  },
+  "keywords": [
+    "particiones",
+    "teoriadenúmeros",
+    "números"
+  ],
+  "preferGlobal": true,
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.0",
+    "ora": "^3.0.0"
+  }
+}
