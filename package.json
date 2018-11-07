@@ -2,10 +2,10 @@
   "name": "particion",
   "version": "1.0.0",
   "license": "la mía XD",
-  "homepage": "https://github.com/Jotade100/youtubeCLI/blob/master/README.md",
+  "homepage": "https://github.com/Jotade100/particiones-cli/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jotade100/youtubeCLI.git"
+    "url": "git+https://github.com/Jotade100/particiones-cli.git"
   },
   "engines": {
     "node": ">=8"
